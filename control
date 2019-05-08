@@ -1,7 +1,7 @@
 Package: com.samgisaninja.dollarvoting
 Name: DollarVoting
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Hides the "give gold" button on stock reddit app
 Maintainer: Sam Gardner
